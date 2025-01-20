@@ -6,3 +6,6 @@ touch .gitignore
 python -m venv venv
 source venv/bin/activate
 which python
+
+# dependency install:
+pip install -r requirements.txt
