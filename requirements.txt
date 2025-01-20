@@ -1,0 +1,6 @@
+requests          # For making HTTP requests to websites
+beautifulsoup4    # For scraping website content (HTML parsing)
+pandas            # For data manipulation
+sqlalchemy        # For database ORM and connection
+psycopg2          # PostgreSQL adapter for Python
+pytest            # For testing
