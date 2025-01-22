@@ -11,7 +11,7 @@ def extract_recently_played(sp: Spotify) -> list:
     """
     Extract recently played tracks from Spotify.
     """
-    results = sp.current_user_recently_played(limit=50)  # Fetch up to 50 recently played tracks
+    results = sp.current_user_recently_played(limit=40)  # Fetch up to 50 recently played tracks
     print(results.keys())
     #print(results['items'].keys())
     print(results['items'][0].keys())
