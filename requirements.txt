@@ -1,6 +1,12 @@
-requests          # For making HTTP requests to websites
 beautifulsoup4    # For scraping website content (HTML parsing)
 pandas            # For data manipulation
+pytest            # For testing
+
+
+# more:
+pyyaml            # For reading and writing YAML files
+spotipy           # Spotify API   
 sqlalchemy        # For database ORM and connection
 psycopg2          # PostgreSQL adapter for Python
-pytest            # For testing
+schedule          # For scheduling tasks
+requests          # For making HTTP requests to websites

@@ -1,0 +1,5 @@
+spotify:
+  client_id: e4106582f3c24ac188bd6f5b8766d894
+  client_secret: a4d7927f5dc2401ea6aeccee183aeddf
+  app_name: live_spotify_user_report_dashboard
+  redirect_uri: http://localhost:8080/callback
