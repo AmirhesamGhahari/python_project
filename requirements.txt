@@ -10,3 +10,4 @@ sqlalchemy        # For database ORM and connection
 psycopg2          # PostgreSQL adapter for Python
 schedule          # For scheduling tasks
 requests          # For making HTTP requests to websites
+pathlib           # For working with file paths
